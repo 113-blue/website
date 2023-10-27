@@ -1,5 +1,8 @@
 # 113.Blue
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/12dbeb34-73be-4bdc-9bc3-77ee33bc2445/deploy-status)](https://app.netlify.com/sites/113-blue/deploys)
+
+
 This is a [Next.js](https://nextjs.org/) project.
 
 ## Getting Started
