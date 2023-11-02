@@ -25,13 +25,13 @@ a {
 }
 
 @font-face {
-  font-family: "AvenirNextW10-Bold";
-  src: url("../public/fonts/AvenirNext.ttf");
+  font-family: "GeistVF";
+  src: url("../public/fonts/GeistVF.ttf");
 
 }
 
-.Avenir {
-  font-family: AvenirNextW10-Bold;
+.GeistVF {
+  font-family: GeistVF;
   font-display: swap;
 }
 

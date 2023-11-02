@@ -13,31 +13,7 @@ export default function Footer() {
                   className="hover:text-gray-900 transition-colors duration-200 text-2xl"
                   href="/"
                 >
-                  Jobs
-                </a>
-              </li>
-              <li>
-                <a
-                  className="hover:text-gray-900 transition-colors duration-200 text-2xl"
-                  href="/"
-                >
                   Merch
-                </a>
-              </li>{" "}
-              <li>
-                <a
-                  className="hover:text-gray-900 transition-colors duration-200 text-2xl"
-                  href="/"
-                >
-                  Brand
-                </a>
-              </li>{" "}
-              <li>
-                <a
-                  className="hover:text-gray-900 transition-colors duration-200 text-2xl"
-                  href="/"
-                >
-                  Meetups
                 </a>
               </li>
             </ul>
@@ -55,22 +31,6 @@ export default function Footer() {
                   News
                 </a>
               </li>
-              <li>
-                <a
-                  className="hover:text-gray-900 transition-colors duration-200 text-2xl"
-                  href="/"
-                >
-                  Press
-                </a>
-              </li>
-              <li>
-                <a
-                  className="hover:text-gray-900 transition-colors duration-200 text-2xl"
-                  href="/"
-                >
-                  Blog
-                </a>
-              </li>
             </ul>
           </li>
           <li className="space-y-5 row-span-2">
@@ -83,31 +43,7 @@ export default function Footer() {
                   className="hover:text-gray-900 transition-colors duration-200 text-2xl"
                   href="/"
                 >
-                  Hosting
-                </a>
-              </li>
-              <li>
-                <a
-                  className="hover:text-gray-900 transition-colors duration-200 text-2xl"
-                  href="/"
-                >
-                  Domains
-                </a>
-              </li>
-              <li>
-                <a
-                  className="hover:text-gray-900 transition-colors duration-200 text-2xl"
-                  href="/"
-                >
-                  Security
-                </a>
-              </li>
-              <li>
-                <a
-                  className="hover:text-gray-900 transition-colors duration-200 text-2xl"
-                  href="/"
-                >
-                  SSL
+                  Comming soon
                 </a>
               </li>
             </ul>
@@ -119,26 +55,10 @@ export default function Footer() {
             <ul className="space-y-4">
               <li>
                 <a
-                  className="hover:text-gray-900 transition-colors duration-200 text-2xl"
-                  href="/"
-                >
-                  Twitter
-                </a>
-              </li>
-              <li>
-                <a
-                  className="hover:text-gray-900 transition-colors duration-200 text-2xl"
-                  href="/"
-                >
-                  Facebook
-                </a>
-              </li>
-              <li>
-                <a
                   className="hover:text-gray-900 transition-colors duration-200 font-semibold text-2xl"
-                  href="/"
+                  href="mailto:contact@113.blue"
                 >
-                  Instagram
+                  E-mail
                 </a>
               </li>
             </ul>
@@ -146,14 +66,6 @@ export default function Footer() {
         </ul>
         <div className="flex flex-col-reverse justify-between pt-5 pb-4 border-t lg:flex-row bg-top border-black">
           <ul className="flex flex-col space-y-2 lg:mb-0 sm:space-y-0 sm:space-x-5 sm:flex-row">
-            <li>
-              <a
-                href="/"
-                className="text-md transition-colors duration-300 hover:text-deep-purple-accent-400 font-semibold"
-              >
-                Cookie Policy
-              </a>
-            </li>
             <li>
               <a
                 href="/"
@@ -168,7 +80,7 @@ export default function Footer() {
               href="/"
               className="text-md transition-colors duration-300 hover:text-deep-purple-accent-400 font-semibold tracking-tight"
             >
-              © 2023 113.blue.
+              © 2023 <span className="text-113-800">113.blue.</span>
             </a>
           </ul>
         </div>

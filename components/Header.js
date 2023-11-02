@@ -11,7 +11,7 @@ export default function Header() {
             href="/"
             className="text-lg font-semibold rounded-lg tracking-widest focus:outline-none focus:shadow-outline"
           >
-            <h1 className="text-4xl Avenir tracking-tighter text-gray-900 md:text-4x1 lg:text-3xl">
+            <h1 className="text-4xl GeistVF tracking-tighter text-113-800 md:text-4x1 lg:text-3xl">
               113
             </h1>
           </a>
@@ -57,7 +57,7 @@ export default function Header() {
               </li>
               <li>
                 <a
-                  className="inline-flex items-center px-4 py-2 mt-2 font-medium text-white transition duration-500 ease-in-out transform bg-transparent rounded-lg text-md md:mt-0 md:ml-4 bg-gray-900"
+                  className="inline-flex items-center px-4 py-2 mt-2 font-medium text-black transition duration-500 ease-in-out transform bg-transparent rounded-lg text-md md:mt-0 md:ml-4 bg-gray-900"
                   href="mailto:contact@113.blue"
                 >
                   <span className="justify-center">Contact us</span>
